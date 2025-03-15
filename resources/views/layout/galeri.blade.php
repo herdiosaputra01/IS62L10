@@ -39,22 +39,22 @@
         <h2 class="mb-3">Galeri Foto</h2>
         <div class="row">
             <div class="col-4">
-               <img src="{{asset('image/1.jpg')}}" class="img-thumbnail img-fluid" alt="">
+               <img src="{{asset('image/01.jpg')}}" class="img-thumbnail img-fluid" alt="">
             </div>
             <div class="col-4">
-                <img src="{{asset('image/2.jpg')}}" class="img-thumbnail img-fluid" alt="">
+                <img src="{{asset('image/02.jpg')}}" class="img-thumbnail img-fluid" alt="">
              </div>
              <div class="col-4">
-                <img src="{{asset('image/3.jpg')}}" class="img-thumbnail img-fluid" alt="">
+                <img src="{{asset('image/03.jpg')}}" class="img-thumbnail img-fluid" alt="">
              </div>
              <div class="col-4">
-                <img src="{{asset('image/4.jpg')}}" class="img-thumbnail img-fluid" alt="">
+                <img src="{{asset('image/04.jpg')}}" class="img-thumbnail img-fluid" alt="">
              </div>
              <div class="col-4">
-                <img src="{{asset('image/5.jpg')}}" class="img-thumbnail img-fluid" alt="">
+                <img src="{{asset('image/05.jpg')}}" class="img-thumbnail img-fluid" alt="">
              </div>
              <div class="col-4">
-                <img src="{{asset('image/6.jpg')}}" class="img-thumbnail img-fluid" alt="">
+                <img src="{{asset('image/06.jpg')}}" class="img-thumbnail img-fluid" alt="">
              </div>
         </div>
 
